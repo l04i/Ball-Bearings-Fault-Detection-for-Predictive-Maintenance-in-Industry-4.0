@@ -4,7 +4,7 @@
 This project focuses on predictive maintenance using machine learning techniques for bearing fault detection. The goal is to develop models that can accurately predict the occurrence of faults in the CWRU ball bearing dataset.
 
 ## Dataset
-The dataset used in this project is the CWRU ball bearing dataset, which contains vibration signals from different types of bearing faults. The dataset is available [here](link_to_dataset).
+The dataset used in this project is the CWRU ball bearing dataset, which contains vibration signals from different types of bearing faults. The dataset is available in `Dataset/`
 
 ## Algorithms
 The following machine learning algorithms have been implemented and evaluated in this project:
