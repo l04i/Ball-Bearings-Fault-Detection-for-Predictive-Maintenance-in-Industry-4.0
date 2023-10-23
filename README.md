@@ -33,7 +33,7 @@ To use this project, follow these steps:
 3. Run the main script: `python main.py`
 
 ## Results
-The performance of each algorithm and model combination has been evaluated using various metrics, such as accuracy, precision, recall, and F1-score. The results can be found in the `results/` directory.
+The performance of each algorithm and model combination has been evaluated using various metrics, such as accuracy, precision, recall, F1-score , confusion matricies and ROC cuves. The results can be found in the `results/` directory.
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
