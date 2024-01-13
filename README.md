@@ -26,11 +26,6 @@ For each algorithm, nine models have been trained and tested for different fault
 - OR021
 
 
-## Usage
-To use this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your_username/your_repository.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the main script: `python main.py`
 
 ## Results
 The performance of each algorithm and model combination has been evaluated using various metrics, such as accuracy, precision, recall, F1-score , confusion matricies and ROC cuves. The results can be found in the `results/` directory.
